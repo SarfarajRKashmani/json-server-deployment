@@ -1,26 +1,7 @@
+// 20240715162806
+// https://dummyjson.com/products
+
 {
-  "users": [
-    {
-      "id": "c785",
-      "name": "test user",
-      "email": "test@example.com",
-      "password": "test"
-    },
-    {
-      "id": "1",
-      "name": "test user",
-      "email": "test1@example.com",
-      "password": "test"
-    },
-    {
-      "id": "7",
-      "name": "test user",
-      "email": "test3@example.com",
-      "password": "test"
-    }
-  ],
-  "cart": [],
-  "orders": [],
   "products": [
     {
       "id": 1,
@@ -1818,5 +1799,8 @@
       ],
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Kiwi/thumbnail.png"
     }
-  ]
+  ],
+  "total": 194,
+  "skip": 0,
+  "limit": 30
 }
